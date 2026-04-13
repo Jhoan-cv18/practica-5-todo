@@ -1,6 +1,1 @@
 node_modules/
-.claude/
-generar_pdf.py
-generar_docx.js
-*.pdf
-*.docx
